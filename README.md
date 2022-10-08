@@ -1,4 +1,4 @@
-# Projectc Management
+# Project Management
 The "Project Report" indicate the details of project, including: 
 - Project Chart
 - Project Scope Statement
